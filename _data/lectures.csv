@@ -1,7 +1,7 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube,dataset
 Monday,10,June,8:00,9:00,*arrivals*,,,,,,
 Monday,10,June,9:00,10:30,**Introduction to GPs**,assets/Sheffield-GPSS2013-Lawrence1.pdf,,Neil Lawrence,University of Sheffield,,
-Monday,10,June,*coffee break*,,,,,,
+Monday,10,June,,,*coffee break*,,,,,,
 Monday,10,June,11:00,12:30,**Introduction to GPs**,assets/Sheffield-GPSS2013-Turner.pdf,,Richard Turner,University of Cambridge,,
 Monday,10,June,,,*lunch*,,,,,,
 Monday,10,June,13:30,15:30,**Lab Session 1: GP models with GPy**,assets/lab1.pdf,,,,,
